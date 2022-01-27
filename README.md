@@ -63,3 +63,7 @@ console.log('Hello, Web3');
 ```
 - If applicable please include the working codebase of the quest in the content repo itself.
 
+## How to create a quest for Questbook
+
+- Notion doc with instructions: [How to create a quest for Questbook](https://questbook.notion.site/How-to-create-a-quest-for-Questbook-e839311948184de799a71445028db3eb)
+
