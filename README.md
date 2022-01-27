@@ -8,6 +8,17 @@ To add a quest first of all fork this repo and add the quest metadata as per bel
 The detailed schema is available [here](/schema.json).  
 Suppose you want to add a new quest in Ethereum track.  
 Add a new object under `quests` array of the `build-on-ethereum` value object.  
+
+```
+{
+        "slug": "getting-a-real-interest-using-compound",
+        "questName": "Getting a real interest using Compound",
+        "github_url": "https://raw.githubusercontent.com/CreatorOS/Getting-a-real-interest-rate/main",
+        "level": "Beginner",
+        "desc": "In this quest, we will build on previous quest and integrate Compound to get a real interest rate."
+}
+```
+
 Fill in the details as per `schema.json`.  
 
 - Please note the github_url should look like this: `https://raw.githubusercontent.com/CreatorOS/Building-a-bank-with-Solidity-that-isnt-a-toy-For-beginners/main`
