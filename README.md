@@ -1,6 +1,6 @@
 # Open-source content curation for Openquest.xyz
 
-This repository is a low-key open-source database for all the content that is available on [openquest.xyz](openquest.xyz). You can create your own quests and raise a PR to add the same to [openquest.xyz](openquest.xyz). 
+This repository is a low-key open-source database for all the content that is available on [openquest.xyz](https://openquest.xyz). You can create your own quests and raise a PR to add the same to [openquest.xyz](https://openquest.xyz). 
 
 ## Add a new quest/tutorial
 
