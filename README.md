@@ -4,10 +4,10 @@ This repository is a low-key open-source database for all the content that is av
 
 ## Add a new quest/tutorial
 
-To add a quest first of all fork this repo and add the quest metadata as per below instructions. Then raise a PR.  
-The detailed schema is available [here](/schema.json).  
+- To add a quest first of all fork this repo and add the quest metadata as per below instructions. Then raise a PR.  
+- The detailed schema is available [here](/schema.json).  
 Suppose you want to add a new quest in Ethereum track.  
-Add a new object under `quests` array of the `build-on-ethereum` value object.  
+- Add a new object under `quests` array of the `build-on-ethereum` value object.  
 
 ```
 {
@@ -19,9 +19,31 @@ Add a new object under `quests` array of the `build-on-ethereum` value object.
 }
 ```
 
-Fill in the details as per `schema.json`.  
+- Fill in the details as per [schema.json](/schema.json).  
 
 - Please note the github_url should look like this: `https://raw.githubusercontent.com/CreatorOS/Building-a-bank-with-Solidity-that-isnt-a-toy-For-beginners/main`
+
+## Add a new track
+
+Adding new track is straightforward as well.
+- Just add a new key-value pair at root level like below.
+```
+  "fundamentals-of-blockchain": {
+    "trackName": "Fundamentals of Blockchain",
+    "protocol": "Blockchain",
+    "cardThumbnail": "bc.png",
+    "desc": "",
+    "quests": [
+      {
+        "slug": "creating-a-simple-blockchain-in-python",
+        "questName": "Creating a simple blockchain in Python",
+        "github_url": "https://raw.githubusercontent.com/CreatorOS/Creating-a-simple-blockchain-in-Python/main",
+        "level": "Beginner",
+        "desc": "In this chain agnostic quest, we create a simple blockchain in Python."
+      }
+    ]
+  }
+```
 
 ## The structure of the content repo
 
