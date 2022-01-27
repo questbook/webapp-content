@@ -1,0 +1,75 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "description": "Schema for the metadata of the quests on different protocols",
+  "properties": {
+    "build-on-<name-of-protocol>": {
+      "type": "object",
+      "properties": {
+        "trackName": {
+          "type": "string",
+          "description": "Name of the track"
+        },
+        "protocol": {
+          "type": "string",
+          "description": "Name of the protocol"
+        },
+        "cardThumbnail": {
+          "type": "string",
+          "description": "Thumbnail image name stored in assets/thumbs e.g. eth.png"
+        },
+        "desc": {
+          "type": "string",
+          "description": "Short one-line description of the protocol"
+        },
+        "quests": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "slug": {
+                  "type": "string",
+                  "description": "This shows up in url path. Same as questName but all lowercase and joined using dashes -"
+                },
+                "questName": {
+                  "type": "string",
+                  "description": "Name of the quest"
+                },
+                "github_url": {
+                  "type": "string",
+                  "description": "Raw github url of the branch where the quest content resides"
+                },
+                "level": {
+                  "type": "string",
+                  "description": "The difficulty level of the quest either Beginner, Intermediate or Advanced"
+                },
+                "desc": {
+                  "type": "string",
+                  "description": "Short description of what the learner should expect to learn from this quest"
+                }
+              },
+              "required": [
+                "slug",
+                "questName",
+                "github_url",
+                "level",
+                "desc"
+              ]
+            }
+          ]
+        }
+      },
+      "required": [
+        "trackName",
+        "protocol",
+        "cardThumbnail",
+        "desc",
+        "quests"
+      ]
+    }
+  },
+  "required": [
+    "build-on-<name-of-protocol>"
+  ]
+}
