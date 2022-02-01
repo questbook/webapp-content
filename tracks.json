@@ -6,6 +6,48 @@
     "desc": "Most of the smart contract for Ethereum are written in Solidity. To do this track, it's helpful to have atleast some basic knowledge of programming fundamentals and any other language like Python or Javascript.",
     "quests": [
       {
+        "slug": "solidity-hello-world",
+        "questName": "Hello world",
+        "github_url": "https://raw.githubusercontent.com/CreatorOS/Hello-World/main",
+        "level": "Beginner",
+        "desc": "This is the classic hello world intro code"
+      },
+      {
+        "slug": "reading-and-writing-to-a-state-variable",
+        "questName": "Reading and writing a State Variable",
+        "github_url": "https://raw.githubusercontent.com/CreatorOS/Reading-and-Writing-to-a-State-Variable/main",
+        "level": "Beginner",
+        "desc": "In this quest, you learn how to work with state variables"
+      },
+      {
+        "slug": "If-Else conditionals",
+        "questName": "if / else",
+        "github_url": "https://raw.githubusercontent.com/CreatorOS/If-Else/main",
+        "level": "Beginner",
+        "desc": "In this quest, you learn how to use if/else conditionals"
+      },
+      {
+        "slug": "Mapping",
+        "questName": "Mapping",
+        "github_url": "https://raw.githubusercontent.com/CreatorOS/Mapping/main",
+        "level": "Beginner",
+        "desc": "In this quest, you learn how to use Solidity mappings"
+      },
+      {
+        "slug": "Array",
+        "questName": "Array",
+        "github_url": "https://raw.githubusercontent.com/CreatorOS/Array/main",
+        "level": "Beginner",
+        "desc": "In this quest, you learn how to use Solidity arrays"
+      },
+      {
+        "slug": "Function",
+        "questName": "Function",
+        "github_url": "https://raw.githubusercontent.com/CreatorOS/Function/main",
+        "level": "Beginner",
+        "desc": "In this quest, you learn how to use Solidity functions"
+      },
+      {
         "slug": "building-a-bank-with-solidity-that-isnt-a-toy",
         "questName": "Building a bank with Solidity that isn't a toy",
         "github_url": "https://raw.githubusercontent.com/CreatorOS/Building-a-bank-with-Solidity-that-isnt-a-toy-For-beginners/main",
