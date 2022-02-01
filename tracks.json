@@ -8,42 +8,42 @@
       {
         "slug": "solidity-hello-world",
         "questName": "Hello world",
-        "github_url": "https://raw.githubusercontent.com/CreatorOS/Hello-World/main",
+        "github_url": "https://raw.githubusercontent.com/CreatorOS/Hello-World/master",
         "level": "Beginner",
         "desc": "This is the classic hello world intro code"
       },
       {
         "slug": "reading-and-writing-to-a-state-variable",
         "questName": "Reading and writing a State Variable",
-        "github_url": "https://raw.githubusercontent.com/CreatorOS/Reading-and-Writing-to-a-State-Variable/main",
+        "github_url": "https://raw.githubusercontent.com/CreatorOS/Reading-and-Writing-to-a-State-Variable/master",
         "level": "Beginner",
         "desc": "In this quest, you learn how to work with state variables"
       },
       {
         "slug": "If-Else conditionals",
         "questName": "if / else",
-        "github_url": "https://raw.githubusercontent.com/CreatorOS/If-Else/main",
+        "github_url": "https://raw.githubusercontent.com/CreatorOS/If-Else/master",
         "level": "Beginner",
         "desc": "In this quest, you learn how to use if/else conditionals"
       },
       {
         "slug": "Mapping",
         "questName": "Mapping",
-        "github_url": "https://raw.githubusercontent.com/CreatorOS/Mapping/main",
+        "github_url": "https://raw.githubusercontent.com/CreatorOS/Mapping/master",
         "level": "Beginner",
         "desc": "In this quest, you learn how to use Solidity mappings"
       },
       {
         "slug": "Array",
         "questName": "Array",
-        "github_url": "https://raw.githubusercontent.com/CreatorOS/Array/main",
+        "github_url": "https://raw.githubusercontent.com/CreatorOS/Array/master",
         "level": "Beginner",
         "desc": "In this quest, you learn how to use Solidity arrays"
       },
       {
         "slug": "Function",
         "questName": "Function",
-        "github_url": "https://raw.githubusercontent.com/CreatorOS/Function/main",
+        "github_url": "https://raw.githubusercontent.com/CreatorOS/Function/master",
         "level": "Beginner",
         "desc": "In this quest, you learn how to use Solidity functions"
       },
