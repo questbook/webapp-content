@@ -409,7 +409,7 @@
       },
       {
         "slug": "polygon-selfdestruct-hack",
-        "questName": "Exploiting selfdestruct()",
+        "questName": "Exploiting selfdestruct function",
         "github_url": "https://raw.githubusercontent.com/CreatorOS/polygon-selfdestruct-hack/master",
         "level": "Beginner",
         "desc": "In this quest, you will learn about the selfdestruct function in Solidity and how it can be used to hack contracts that follow a specific pattern."
