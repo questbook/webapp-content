@@ -21,7 +21,7 @@
       },
       {
         "slug": "If-Else conditionals",
-        "questName": "if / else",
+        "questName": "if else conditionals",
         "github_url": "https://raw.githubusercontent.com/CreatorOS/If-Else/master",
         "level": "Beginner",
         "desc": "In this quest, you learn how to use if/else conditionals"
