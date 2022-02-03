@@ -20,7 +20,7 @@
         "desc": "In this quest, you learn how to work with state variables"
       },
       {
-        "slug": "If-Else conditionals",
+        "slug": "If-Else-conditionals",
         "questName": "if else conditionals",
         "github_url": "https://raw.githubusercontent.com/CreatorOS/If-Else/master",
         "level": "Beginner",
