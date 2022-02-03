@@ -126,7 +126,7 @@
       },
       {
         "slug": "Cloning-a-real-life-project-PoolTogether-100M-marketcap",
-        "questName": "Cloning a real life project - PoolTogether ($100M marketcap)",
+        "questName": "Cloning a real life project - PoolTogether - $100M marketcap",
         "github_url": "https://raw.githubusercontent.com/CreatorOS/Cloning-a-real-life-project-PoolTogether-100M-marketcap/main",
         "level": "Beginner",
         "desc": "In this Quest, we’ll be looking at how we can use the things we’ve learnt to create games that people from around the world can play. We’ll create a simple game using a protocol called PoolTogether."
