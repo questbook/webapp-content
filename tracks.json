@@ -257,6 +257,13 @@
         "github_url": "https://raw.githubusercontent.com/solanauniversity/create-burn-nft-solana/main",
         "level": "Beginner",
         "desc": "In this quest we will deep dive into the whats, hows of staking on Solana Blockchain. Staking is one of the ways of generating more money on the existing SOL coins we hold."
+      },
+      {
+        "slug": "gaming-on-solana-with-nft-and-circle-as-crypto-payment-gateway",
+        "questName": "Gaming on Solana with NFT and Circle as crypto payment gateway",
+        "github_url": "https://raw.githubusercontent.com/solanauniversity/gaming-on-solana/main",
+        "level": "Intermediate",
+        "desc": "In this quest you will be able to build a decentralized gaming platform where users will be able to play the game by paying SOL to a wallet and will be able to create the NFT for the game scores"
       }
     ]
   },
