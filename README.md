@@ -44,6 +44,7 @@ Adding new track is straightforward as well.
     ]
   }
 ```
+- Upload the cardThumbnail under `assets/images` directory.
 
 ## The structure of the content repo
 
