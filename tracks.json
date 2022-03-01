@@ -430,14 +430,13 @@
       }
     ]
   },
-  
-    "build-on-flow": {
+  "build-on-flow": {
     "trackName": "Build on Flow",
     "protocol": "Flow",
     "cardThumbnail": "flow.png",
     "desc": "Flow is a fast, secure, and developer-friendly Layer 1 chain built to support the next generation of games, apps, and the digital assets that power them.",
     "quests": [
-       {
+      {
         "slug": "flow-concepts",
         "questName": "Foundational Concepts Flow",
         "github_url": "https://raw.githubusercontent.com/emerald-dao/questbook-flow-concepts/main",
@@ -450,7 +449,7 @@
         "github_url": "https://raw.githubusercontent.com/emerald-dao/questbook-flow-helloworld/main",
         "level": "Beginner",
         "desc": "In this quest you will learn how to write a very simple smart contract in Flow's smart contract programming language called Cadence."
-      },
+      }
     ]
   },
   "fundamentals-of-blockchain": {
