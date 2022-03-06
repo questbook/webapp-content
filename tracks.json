@@ -264,6 +264,13 @@
         "github_url": "https://raw.githubusercontent.com/solanauniversity/gaming-on-solana/main",
         "level": "Intermediate",
         "desc": "In this quest you will be able to build a decentralized gaming platform where users will be able to play the game by paying SOL to a wallet and will be able to create the NFT for the game scores"
+      },
+      {
+        "slug": "solana-web3-important-rpc-methods",
+        "questName": "Solana Web3 important RPC methods",
+        "github_url": "https://raw.githubusercontent.com/solanauniversity/solana-web3-rpc-methods/main",
+        "level": "Intermediate",
+        "desc": "In this quest you will be able understand various important RPC methods in Web3 form, which can be very helpful while building any kind of DApp on solana from beginner to expert level."
       }
     ]
   },
